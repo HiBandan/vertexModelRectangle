@@ -52,9 +52,9 @@ Testing and contributing is very welcome, especially if you can contribute with 
     
   ### run 
   
-    open (with Code::Blocks): modelTD_WINDOWS.cbp
+    open (with Code::Blocks): vertexModelRectangle_WINDOWS.cbp
   
-    Projects -> modelTD_WINDOWS.cbp -> add files
+    Projects -> vertexModelRectangle_WINDOWS.cbp -> add files
         -> modules/cppFiles (all files)
         -> modules/headFiles (all files)
         -> modules/paramFiles (all files)
@@ -117,9 +117,9 @@ Testing and contributing is very welcome, especially if you can contribute with 
  
   ### run 
 
-    open (with code-block): modelTD_LINUX.cbp
+    open (with code-block): vertexModelRectangle_LINUX.cbp
     
-    Projects -> modelTD_LINUX.cbp -> add files
+    Projects -> vertexModelRectangle_LINUX.cbp -> add files
       -> modules/cppFiles (all files)
       -> modules/headFiles (all files)
       -> modules/paramFiles (all files)
