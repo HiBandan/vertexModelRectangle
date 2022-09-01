@@ -1,6 +1,6 @@
 # vertexModelRectangle
 
-![alt text](https://github.com/HiBandan/vertexModelRectangle/blob/main/logo/vertexRect-2.0.png) 
+![alt text](https://github.com/HiBandan/vertexModelRectangle/blob/main/logo/vertexRect-3.0.png) 
 
 This is a program for simulating emergence of tissue flow and deformation using 2D-vertex model, where experimentally aquired cell shape from the sagittal section of an animal is approximated by polygons. 
 
