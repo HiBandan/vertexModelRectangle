@@ -45,7 +45,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
 
   Option 2: Clone from terminal: 
   
-    git clone https://github.com/HiBandan/modelTissueDeformation.git
+    git clone https://github.com/HiBandan/vertexModelRectangle.git
 
   ### install Code::Blocks: 
   https://code-blocks.en.uptodown.com/windows
@@ -105,7 +105,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
 
   Option 2: Clone from terminal: 
   
-    git clone https://github.com/HiBandan/modelTissueDeformation.git
+    git clone https://github.com/HiBandan/vertexModelRectangle.git
     
   ### install Code::Blocks: 
   
